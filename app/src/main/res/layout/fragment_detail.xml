@@ -30,7 +30,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="3"/>
-
+    D:\Study\Android Developer\Course\Advanced Sun Shine App Dev\Advanced_Android_Development\app
     <include layout="@layout/detail_extras_grid"
         android:layout_width="match_parent"
         android:layout_height="0dp"
